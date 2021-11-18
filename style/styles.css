@@ -1,10 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,400;1,300&display=swap');
+
 html {
-    font-size: 10px;
+    font-size: 15px;
 }
 
 body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto','Helvetica Neue', Arial, sans-serif;
-    font-size: 16px;
+    font-family: 'Merriweather', serif;
     line-height: 1.5;
     text-align: center;
     color: rgb(8, 6, 6);
